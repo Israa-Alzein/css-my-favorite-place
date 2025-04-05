@@ -1,0 +1,13 @@
+body {
+    max-width: 90%;
+    margin: auto;
+    background-color: lightpink;
+}
+
+.header > h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:salmon;
+    letter-spacing:5px
+}

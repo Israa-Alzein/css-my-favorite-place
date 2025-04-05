@@ -1,0 +1,19 @@
+
+
+.header{
+    background-color:cyan ;
+    border-radius: 5px;
+}
+
+
+
+p{
+    font-family: 'Garamond', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-align: justify;
+
+    width: 900px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:30px
+}
