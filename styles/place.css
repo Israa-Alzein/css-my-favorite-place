@@ -28,3 +28,8 @@ p{
 .image:hover{
     background-image: url("./../pictures/greenary.jpg");
 }
+
+.facts-link{
+    max-width:90%;
+    
+}

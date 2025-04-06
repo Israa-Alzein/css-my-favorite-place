@@ -17,6 +17,29 @@ body {
     letter-spacing:5px
 }
 
-.facts-link, place-link{
-    margin-top:5px;
+.facts-link, .place-link{
+    display:flex;
+    justify-content: center;
+    width: 300px;
+    margin: 20px auto;
+
+}
+
+
+
+a{
+    text-align: center;
+    width:200px;
+    text-decoration: none;
+    color:ghostwhite;
+    background-color: #5ca5cf;
+    display: inline-block
+}
+
+a:hover{
+    width:220px;
+    height:20px;
+    text-decoration: underline;
+    
+    
 }
