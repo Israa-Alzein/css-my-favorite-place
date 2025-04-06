@@ -1,11 +1,11 @@
 body {
     max-width: 90%;
     margin: auto;
-    background-color: lightpink;
+    background-color: #efa1af;
 }
 
 .header{
-    background-color:cyan ;
+    background-color:#5ca5cf ;
     border-radius: 5px;
 }
 
@@ -15,4 +15,8 @@ body {
     align-items: center;
     color:salmon;
     letter-spacing:5px
+}
+
+.facts-link, place-link{
+    margin-top:5px;
 }
