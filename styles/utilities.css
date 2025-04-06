@@ -4,6 +4,11 @@ body {
     background-color: lightpink;
 }
 
+.header{
+    background-color:cyan ;
+    border-radius: 5px;
+}
+
 .header > h1{
     display: flex;
     justify-content: center;
